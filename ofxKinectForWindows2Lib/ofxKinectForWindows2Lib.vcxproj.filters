@@ -71,9 +71,6 @@
     <ClCompile Include="..\src\ofxKinectForWindows2\Source\Infrared.cpp">
       <Filter>src\ofxKinectForWindows2\Source</Filter>
     </ClCompile>
-    <ClCompile Include="..\src\ofxKinectForWindows2\Source\LongExposureInfraRed.cpp">
-      <Filter>src\ofxKinectForWindows2\Source</Filter>
-    </ClCompile>
     <ClCompile Include="..\src\ofxKinectForWindows2\Source\BodyIndex.cpp">
       <Filter>src\ofxKinectForWindows2\Source</Filter>
     </ClCompile>
@@ -85,6 +82,9 @@
     </ClCompile>
     <ClCompile Include="..\src\ofxKinectForWindows2\Data\Body.cpp">
       <Filter>src\ofxKinectForWindows2\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ofxKinectForWindows2\Source\LongExpIR.cpp">
+      <Filter>src\ofxKinectForWindows2\Source</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

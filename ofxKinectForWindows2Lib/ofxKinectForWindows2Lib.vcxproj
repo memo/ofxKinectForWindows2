@@ -179,7 +179,7 @@
     <ClCompile Include="..\src\ofxKinectForWindows2\Source\Depth.cpp" />
     <ClCompile Include="..\src\ofxKinectForWindows2\Source\BaseImage.cpp" />
     <ClCompile Include="..\src\ofxKinectForWindows2\Source\Infrared.cpp" />
-    <ClCompile Include="..\src\ofxKinectForWindows2\Source\LongExposureInfraRed.cpp" />
+    <ClCompile Include="..\src\ofxKinectForWindows2\Source\LongExpIR.cpp" />
     <ClCompile Include="..\src\ofxKinectForWindows2\Utils.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
